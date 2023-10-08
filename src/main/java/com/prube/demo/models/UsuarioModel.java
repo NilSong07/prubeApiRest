@@ -1,7 +1,7 @@
 package com.example.prube.demo;
 import java.util.Objects;
 import javax.persistence.*;
-
+//notas
 @Entity 
 @Table(name = "usuario")
 public class  UsuarioModel {
